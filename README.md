@@ -16,4 +16,6 @@ push local_branch
 new respond_to_comments
 git branch --set-upstream-to=origin/local_branch respond_to_comments
 git pull
+acom
+git push origin HEAD:local_branch
 
