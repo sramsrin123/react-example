@@ -1,8 +1,8 @@
 # GIT Workflow
 
 ## Create a new branch
--git pull
--new branches_with_new_changes
+- git pull
+- new branches_with_new_changes
 
 ## Make changes locally. Submit a diff.
 - git add *
@@ -19,6 +19,7 @@
 - new respond_to_comments
 - git branch --set-upstream-to=origin/branches_with_new_changes respond_to_comments
 - git pull
+- Make your changes
 - acom
 - git push origin HEAD:branches_with_new_changes
 
