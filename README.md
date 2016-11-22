@@ -1,2 +1,2 @@
 # react-example
-Example react app
+Example react app. Testing branch merges
