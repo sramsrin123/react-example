@@ -11,7 +11,7 @@
 -Request a pull. Wait for comments from reviewers
 
 ## Update the diff with the same branch
--git add*
+-git add *
 -acom
 -push branches_with_new_changes
 
